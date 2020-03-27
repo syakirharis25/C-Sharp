@@ -53,6 +53,7 @@ C# Programs by javatpoint : https://www.javatpoint.com/csharp-programs <br />
 <a name="developers"></a>
 ## 3. C# developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
+Mike Dane : https://github.com/mikedane <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
