@@ -43,6 +43,7 @@ Main() and command-line arguments (C# Programming Guide) : https://docs.microsof
 Strings (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/ <br />
 Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
 Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
+Console.ReadLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=netframework-4.8 <br />
 
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
