@@ -18,7 +18,10 @@ C# was designed by Anders Hejlsberg, and its development team is currently led b
 <a name="references"></a>
 ## 2. Official references websites.
 Microsoft official website : https://www.microsoft.com <br />
-C# official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet/csharp/ <br />       
+C# official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet/csharp/ <br />
+
+**_C# related tools_** <br />
+Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br />
 
 <a name="developers"></a>
 ## 3. C# developers.
