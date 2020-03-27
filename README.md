@@ -55,6 +55,7 @@ String.ToUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.strin
 String.ToLower Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.tolower?view=netframework-4.8 <br />
 String.Contains Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.contains?view=netframework-4.8 <br />
 String.IndexOf Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.indexof?view=netframework-4.8 <br />
+String.Substring Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=netframework-4.8 <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
