@@ -23,6 +23,31 @@ C# official documentation by Microsoft : https://docs.microsoft.com/en-us/dotnet
 **_C# related tools_** <br />
 Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br />
 
+**_C# questions and answers_** <br />
+Stack Overflow questions and answers website : https://stackoverflow.com
+
+**_C# documentation by docs.microsoft.com_** <br />
+using (C# Reference) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using <br />
+System Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system?view=netframework-4.8 <br />
+System.Collections Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.collections?view=netframework-4.8 <br />
+System.Collections.Generic Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
+System.Linq Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
+System.Text Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.text?view=netframework-4.8 <br />
+System.Threading Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.8 <br />
+Task Class by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
+Namespaces (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/ <br />
+Classes (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes <br />
+static (C# Reference) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static <br />
+void (C# reference) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/void <br />
+Main() and command-line arguments (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/ <br />
+Strings (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/ <br />
+
+**_C# questions and answers by Stack Overflow_** <br />
+What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
+
+**_C# related articles_** <br />
+C# Programs by javatpoint : https://www.javatpoint.com/csharp-programs <br />
+
 <a name="developers"></a>
 ## 3. C# developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
