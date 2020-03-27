@@ -1,0 +1,13 @@
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.exe
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.deps.json
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.runtimeconfig.json
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.runtimeconfig.dev.json
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.dll
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.pdb
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.dll
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.pdb
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\Girrafe\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.genruntimeconfig.cache
