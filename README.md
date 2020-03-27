@@ -59,6 +59,7 @@ String.Substring Method : https://docs.microsoft.com/en-us/dotnet/api/system.str
 Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
 Math.Abs Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.abs?view=netframework-4.8 <br />
 Math.Pow(Double, Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.pow?view=netframework-4.8 <br />
+Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.sqrt?view=netframework-4.8 <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
