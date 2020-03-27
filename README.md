@@ -48,6 +48,7 @@ Optimize Visual Studio performance : https://docs.microsoft.com/en-us/visualstud
 Types and variables : https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables <br />
 Integral numeric types (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types <br />
 char (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/char <br />
+Floating-point numeric types (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types <br />
 
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
