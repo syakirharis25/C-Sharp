@@ -53,6 +53,7 @@ bool (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-re
 String.Length Property : https://docs.microsoft.com/en-us/dotnet/api/system.string.length?view=netframework-4.8 <br />
 String.ToUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.toupper?view=netframework-4.8 <br />
 String.ToLower Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.tolower?view=netframework-4.8 <br />
+String.Contains Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.contains?view=netframework-4.8 <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
