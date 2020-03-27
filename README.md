@@ -51,6 +51,9 @@ char (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-re
 Floating-point numeric types (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types <br />
 bool (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool <br />
 
+**_C# documentation by devblogs.microsoft.com_** <br />
+What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
+
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
 
@@ -61,6 +64,7 @@ C# Programs by javatpoint : https://www.javatpoint.com/csharp-programs <br />
 ## 3. C# developers.
 Anders Hejlsberg : https://github.com/ahejlsberg, https://twitter.com/ahejlsberg <br />
 Mike Dane : https://github.com/mikedane <br />
+Jon Skeet : https://github.com/jskeet, https://twitter.com/jonskeet <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
