@@ -27,20 +27,22 @@ Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br /
 Stack Overflow questions and answers website : https://stackoverflow.com
 
 **_C# documentation by docs.microsoft.com_** <br />
-using (C# Reference) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using <br />
-System Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system?view=netframework-4.8 <br />
-System.Collections Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.collections?view=netframework-4.8 <br />
-System.Collections.Generic Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
-System.Linq Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
-System.Text Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.text?view=netframework-4.8 <br />
-System.Threading Namespace by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.8 <br />
-Task Class by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
-Namespaces (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/ <br />
-Classes (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes <br />
-static (C# Reference) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static <br />
-void (C# reference) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/void <br />
-Main() and command-line arguments (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/ <br />
-Strings (C# Programming Guide) by docs.microsoft.com : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/ <br />
+using (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using <br />
+System Namespace : https://docs.microsoft.com/en-us/dotnet/api/system?view=netframework-4.8 <br />
+System.Collections Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections?view=netframework-4.8 <br />
+System.Collections.Generic Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
+System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
+System.Text Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.text?view=netframework-4.8 <br />
+System.Threading Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.8 <br />
+Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
+Namespaces (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/ <br />
+Classes (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes <br />
+static (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static <br />
+void (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/void <br />
+Main() and command-line arguments (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/ <br />
+Strings (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/ <br />
+Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
+Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
 
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
