@@ -56,12 +56,20 @@ String.ToLower Method : https://docs.microsoft.com/en-us/dotnet/api/system.strin
 String.Contains Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.contains?view=netframework-4.8 <br />
 String.IndexOf Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.indexof?view=netframework-4.8 <br />
 String.Substring Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=netframework-4.8 <br />
+Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
+Math.Abs Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.abs?view=netframework-4.8 <br />
+Math.Pow(Double, Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.pow?view=netframework-4.8 <br />
+Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.sqrt?view=netframework-4.8 <br />
+Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
+Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
+Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
 
 **_C# questions and answers by Stack Overflow_** <br />
-What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
+What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359 <br />
+What are the benefits of using C# vs F# or F# vs C#? [closed] by Stack Overflow :https://stackoverflow.com/questions/952318/what-are-the-benefits-of-using-c-sharp-vs-f-or-f-vs-c <br />
 
 **_C# related articles_** <br />
 C# Programs by javatpoint : https://www.javatpoint.com/csharp-programs <br />
