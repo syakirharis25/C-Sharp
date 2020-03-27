@@ -44,6 +44,9 @@ Strings (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/
 Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
 Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
 Console.ReadLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=netframework-4.8 <br />
+Optimize Visual Studio performance : https://docs.microsoft.com/en-us/visualstudio/ide/optimize-visual-studio-performance?view=vs-2019 <br />
+Types and variables : https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables <br />
+Integral numeric types (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types <br />
 
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359
