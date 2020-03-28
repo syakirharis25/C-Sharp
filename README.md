@@ -28,45 +28,18 @@ Stack Overflow questions and answers website : https://stackoverflow.com
 
 **_C# documentation by docs.microsoft.com_** <br />
 using (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using <br />
-System Namespace : https://docs.microsoft.com/en-us/dotnet/api/system?view=netframework-4.8 <br />
-System.Collections Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections?view=netframework-4.8 <br />
-System.Collections.Generic Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
-System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
-System.Text Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.text?view=netframework-4.8 <br />
-System.Threading Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.8 <br />
-Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
 Namespaces (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/ <br />
 Classes (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes <br />
 static (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static <br />
 void (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/void <br />
 Main() and command-line arguments (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/ <br />
 Strings (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/ <br />
-Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
-Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
-Console.ReadLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=netframework-4.8 <br />
 Optimize Visual Studio performance : https://docs.microsoft.com/en-us/visualstudio/ide/optimize-visual-studio-performance?view=vs-2019 <br />
 Types and variables : https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables <br />
 Integral numeric types (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types <br />
 char (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/char <br />
 Floating-point numeric types (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types <br />
 bool (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool <br />
-String.Length Property : https://docs.microsoft.com/en-us/dotnet/api/system.string.length?view=netframework-4.8 <br />
-String.ToUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.toupper?view=netframework-4.8 <br />
-String.ToLower Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.tolower?view=netframework-4.8 <br />
-String.Contains Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.contains?view=netframework-4.8 <br />
-String.IndexOf Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.indexof?view=netframework-4.8 <br />
-String.Substring Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=netframework-4.8 <br />
-Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
-Math.Abs Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.abs?view=netframework-4.8 <br />
-Math.Pow(Double, Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.pow?view=netframework-4.8 <br />
-Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.sqrt?view=netframework-4.8 <br />
-Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
-Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
-Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
-Console.Write Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.write?view=netframework-4.8 <br />
-Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.8 <br />
-Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
-Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
 Arrays (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/ <br />
 Static Classes and Static Class Members (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members <br />
 if-else (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/if-else <br />
