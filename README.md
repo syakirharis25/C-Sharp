@@ -43,6 +43,7 @@ bool (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-re
 Arrays (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/ <br />
 Static Classes and Static Class Members (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members <br />
 if-else (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/if-else <br />
+Boolean logical operators (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/boolean-logical-operators <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
