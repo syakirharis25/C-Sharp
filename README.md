@@ -64,6 +64,9 @@ Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?vi
 Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
 Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
 Console.Write Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.write?view=netframework-4.8 <br />
+Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.8 <br />
+Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
+Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
