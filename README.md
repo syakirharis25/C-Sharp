@@ -69,6 +69,7 @@ Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.conv
 Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
 Arrays (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/ <br />
 Static Classes and Static Class Members (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members <br />
+if-else (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/if-else <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
