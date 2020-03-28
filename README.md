@@ -67,6 +67,7 @@ Console.Write Method : https://docs.microsoft.com/en-us/dotnet/api/system.consol
 Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.8 <br />
 Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
 Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
+Arrays (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/ <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
