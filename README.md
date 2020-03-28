@@ -46,6 +46,8 @@ if-else (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language
 Boolean logical operators (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/boolean-logical-operators <br />
 switch (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/switch <br />
 break (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/break <br />
+while (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/while <br />
+do (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/do <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
