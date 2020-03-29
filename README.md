@@ -49,6 +49,10 @@ break (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-r
 while (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/while <br />
 do (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/do <br />
 Multidimensional Arrays (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/multidimensional-arrays <br />
+Document your code with XML comments : https://docs.microsoft.com/en-us/dotnet/csharp/codedoc <br />
+try-catch (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch <br />
+try-finally (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-finally <br />
+try-catch-finally (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch-finally <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
