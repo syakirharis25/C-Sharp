@@ -57,6 +57,8 @@ Objects (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/
 public (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public <br />
 new operator (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/new-operator <br />
 private (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private <br />
+get (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/get <br />
+set (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/set <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
