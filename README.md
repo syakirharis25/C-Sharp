@@ -54,6 +54,7 @@ try-catch (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/langua
 try-finally (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-finally <br />
 try-catch-finally (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch-finally <br />
 Objects (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/objects <br />
+public (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
