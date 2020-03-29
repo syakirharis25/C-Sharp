@@ -63,6 +63,7 @@ What character escape sequences are available? by Jon Skeet : https://devblogs.m
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359 <br />
 What are the benefits of using C# vs F# or F# vs C#? [closed] by Stack Overflow :https://stackoverflow.com/questions/952318/what-are-the-benefits-of-using-c-sharp-vs-f-or-f-vs-c <br />
+c#: getter/setter by Stack Overflow : https://stackoverflow.com/questions/6709072/c-getter-setter/38447109 <br />
 
 **_C# related articles_** <br />
 C# Programs by javatpoint : https://www.javatpoint.com/csharp-programs <br />
