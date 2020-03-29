@@ -59,6 +59,7 @@ new operator (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/lan
 private (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private <br />
 get (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/get <br />
 set (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/set <br />
+Inheritance in C# and .NET : https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
