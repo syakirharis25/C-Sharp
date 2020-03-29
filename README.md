@@ -56,6 +56,9 @@ try-catch-finally (C# Reference) : https://docs.microsoft.com/en-us/dotnet/cshar
 Objects (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/objects <br />
 public (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public <br />
 new operator (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/new-operator <br />
+private (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private <br />
+get (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/get <br />
+set (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/set <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
@@ -63,6 +66,7 @@ What character escape sequences are available? by Jon Skeet : https://devblogs.m
 **_C# questions and answers by Stack Overflow_** <br />
 What is “string[] args” in Main class for? by Stack Overflow : https://stackoverflow.com/questions/552796/what-is-string-args-in-main-class-for/45752359 <br />
 What are the benefits of using C# vs F# or F# vs C#? [closed] by Stack Overflow :https://stackoverflow.com/questions/952318/what-are-the-benefits-of-using-c-sharp-vs-f-or-f-vs-c <br />
+c#: getter/setter by Stack Overflow : https://stackoverflow.com/questions/6709072/c-getter-setter/38447109 <br />
 
 **_C# related articles_** <br />
 C# Programs by javatpoint : https://www.javatpoint.com/csharp-programs <br />
