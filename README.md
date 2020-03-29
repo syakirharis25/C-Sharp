@@ -60,6 +60,7 @@ private (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language
 get (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/get <br />
 set (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/set <br />
 Inheritance in C# and .NET : https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance <br />
+virtual (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
