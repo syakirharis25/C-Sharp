@@ -27,6 +27,7 @@ Visual Studio Community : https://visualstudio.microsoft.com/vs/community/ <br /
 Stack Overflow questions and answers website : https://stackoverflow.com
 
 **_C# documentation by docs.microsoft.com_** <br />
+Introduction to C# : https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/ <br />
 using (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using <br />
 Namespaces (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/ <br />
 Classes (C# Programming Guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes <br />
