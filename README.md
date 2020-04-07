@@ -63,6 +63,9 @@ set (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-ref
 Inheritance in C# and .NET : https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance <br />
 virtual (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual <br />
 override (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override <br />
+Collections (C#) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections <br />
+Language Integrated Query (LINQ) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/ <br />
+<summary> (C# programming guide) : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/summary <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
