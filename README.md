@@ -69,6 +69,7 @@ Language Integrated Query (LINQ) : https://docs.microsoft.com/en-us/dotnet/cshar
 abstract (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract <br />
 protected (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected <br />
 using statement (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement <br />
+bool (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
