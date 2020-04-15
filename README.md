@@ -71,6 +71,7 @@ protected (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/langua
 using statement (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement <br />
 bool (C# reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool <br />
 params (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/params <br />
+readonly (C# Reference) : https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/readonly <br />
 
 **_C# documentation by devblogs.microsoft.com_** <br />
 What character escape sequences are available? by Jon Skeet : https://devblogs.microsoft.com/csharpfaq/what-character-escape-sequences-are-available/ <br />
